@@ -12,7 +12,7 @@
   "workbench.preferredDarkColorTheme": "Monokai",
   "workbench.preferredLightColorTheme": "Default Light Modern",
   "workbench.productIconTheme": "material-product-icons",
-  "workbench.startupEditor": "terminal",
+  "workbench.startupEditor": "newUntitledFile",
   "workbench.tree.indent": 10,
 
   // ========== Editor ==========

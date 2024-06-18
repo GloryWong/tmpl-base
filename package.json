@@ -13,7 +13,7 @@
   "repository": "github:GloryWong/{{project-name}}",
   "bugs": "https://github.com/GloryWong/{{project-name}}/issues",
   "scripts": {
-    "dev": "tsx --watch src/index.ts",
+    "dev": "tsx watch src/index.ts",
     "build": "tsc",
     "prepare": "pnpm simple-git-hooks",
     "lint": "eslint .",
@@ -34,7 +34,7 @@
     "simple-git-hooks": "^2.11.1",
     "ts-jest": "^29.1.4",
     "ts-node": "^10.9.2",
-    "tsc": "^2.0.4",
+    "tsx": "^4.15.6",
     "typescript": "^5.4.5"
   },
   "simple-git-hooks": {
